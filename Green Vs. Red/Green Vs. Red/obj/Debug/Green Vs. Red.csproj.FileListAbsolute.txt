@@ -1,0 +1,21 @@
+D:\Visual Studio Projects Tutorial\Green Vs. Red\Green Vs. Red\bin\Debug\Green_Vs.Red.exe.config
+D:\Visual Studio Projects Tutorial\Green Vs. Red\Green Vs. Red\bin\Debug\Green_Vs.Red.exe
+D:\Visual Studio Projects Tutorial\Green Vs. Red\Green Vs. Red\bin\Debug\Green_Vs.Red.pdb
+D:\Visual Studio Projects Tutorial\Green Vs. Red\Green Vs. Red\obj\Debug\Green Vs. Red.csprojAssemblyReference.cache
+D:\Visual Studio Projects Tutorial\Green Vs. Red\Green Vs. Red\obj\Debug\Green Vs. Red.csproj.CoreCompileInputs.cache
+D:\Visual Studio Projects Tutorial\Green Vs. Red\Green Vs. Red\obj\Debug\Green_Vs.Red.exe
+D:\Visual Studio Projects Tutorial\Green Vs. Red\Green Vs. Red\obj\Debug\Green_Vs.Red.pdb
+C:\Users\Olga\source\repos\Green Vs. Red\Green Vs. Red\bin\Debug\Green_Vs.Red.exe.config
+C:\Users\Olga\source\repos\Green Vs. Red\Green Vs. Red\bin\Debug\Green_Vs.Red.exe
+C:\Users\Olga\source\repos\Green Vs. Red\Green Vs. Red\bin\Debug\Green_Vs.Red.pdb
+C:\Users\Olga\source\repos\Green Vs. Red\Green Vs. Red\obj\Debug\Green Vs. Red.csprojAssemblyReference.cache
+C:\Users\Olga\source\repos\Green Vs. Red\Green Vs. Red\obj\Debug\Green Vs. Red.csproj.CoreCompileInputs.cache
+C:\Users\Olga\source\repos\Green Vs. Red\Green Vs. Red\obj\Debug\Green_Vs.Red.exe
+C:\Users\Olga\source\repos\Green Vs. Red\Green Vs. Red\obj\Debug\Green_Vs.Red.pdb
+C:\Users\TheExploited\Downloads\Green Vs. Red-final-final-cleaned\Green Vs. Red\Green Vs. Red\bin\Debug\Green_Vs.Red.exe.config
+C:\Users\TheExploited\Downloads\Green Vs. Red-final-final-cleaned\Green Vs. Red\Green Vs. Red\bin\Debug\Green_Vs.Red.exe
+C:\Users\TheExploited\Downloads\Green Vs. Red-final-final-cleaned\Green Vs. Red\Green Vs. Red\bin\Debug\Green_Vs.Red.pdb
+C:\Users\TheExploited\Downloads\Green Vs. Red-final-final-cleaned\Green Vs. Red\Green Vs. Red\obj\Debug\Green Vs. Red.csprojAssemblyReference.cache
+C:\Users\TheExploited\Downloads\Green Vs. Red-final-final-cleaned\Green Vs. Red\Green Vs. Red\obj\Debug\Green Vs. Red.csproj.CoreCompileInputs.cache
+C:\Users\TheExploited\Downloads\Green Vs. Red-final-final-cleaned\Green Vs. Red\Green Vs. Red\obj\Debug\Green_Vs.Red.exe
+C:\Users\TheExploited\Downloads\Green Vs. Red-final-final-cleaned\Green Vs. Red\Green Vs. Red\obj\Debug\Green_Vs.Red.pdb
